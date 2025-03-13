@@ -25,7 +25,6 @@ html {
     display: grid;
     /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
     /* column-gap: 20px; */
-    /* color:  rgb(185, 0, 0); */
     color: #000000;
     position: relative;
 }
