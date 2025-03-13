@@ -1,0 +1,65 @@
+{
+    "songs": [
+      {
+        "artist" : "NIKI",
+        "description" : "Take A Chance With Me er for den som endelig kan innrømme at det ikke er så skummelt å være forelsket. En sang for den som ikke nøler med å ta sjansen igjen.",
+        "title" : "Take a chance with me",
+        "album" : "Nicole",
+        "year" : "2022",
+        "duration" : "5:04",
+        "genre" : "Alternative/indie",
+        "link" : "https://open.spotify.com/track/21acb66djKRlDPJOXRBCkc",
+        "review" : "Denne sangen er en flott låt å lytte til når du tenker på eller beundrer noen. ",
+        "album_image": "images/Nicole.png"
+      },
+      {
+        "artist" : "MARK",
+        "description" : "Historien om en uventet kjærlighet som til slutt blir et skjebnesvangert møte.",
+        "title" : "200",
+        "album" : "200 - Single",
+        "year" : "2024",
+        "duration" : "3:06",
+        "genre" : "K-pop/Rock(basert på en artikkel fra The Korea Herald)",
+        "link" : "https://open.spotify.com/track/7rx73Y7UB1gy6bOLqJvsRe",
+        "review" : "Denne sangen er en morsom blanding av K-pop og rock, det er en god låt å høre på noe nytt. Selv om jeg foretrekker den andre versjonen av denne, Minhyungs version, fordi jeg liker å spille den på gitar.",
+        "album_image": "images/200.png"
+      },
+      {
+        "artist" : "Michael Jackson",
+        "description" : "Sangen handler om å gjøre en endring og innse at den må begynne med deg selv.",
+        "title" : "Man in the mirror",
+        "album" : "Bad",
+        "year" : "1988",
+        "duration" : "5:19",
+        "genre" : "Pop",
+        "link" : "https://open.spotify.com/track/2u2udGmop1z67EPpr91km7",
+        "review" : "En gammel popklassiker som jeg aldri blir lei av å høre på.",
+        "album_image": "images/MJ.png"
+      },
+      {
+        "artist" : "IV of Spades",
+        "description" : "Ifølge sangerne handler denne sangen om tenåringsangst.",
+        "title" : "Take That Man",
+        "album" : "CLAPCLAPCLAP!",
+        "year" : "2018",
+        "duration" : "3:59",
+        "genre" : "Funk rock/pop funk",
+        "link" : "https://open.spotify.com/track/1SZuNx9TtE5da7twgYkKAq",
+        "review" : "En låt med en fin basslinje som jeg virkelig elsker. Jeg hadde en venninne som tok basstimer før, og jeg foreslo denne sangen, og hun elsket den.",
+        "album_image": "images/Clap!.png"
+      },
+      {
+        "artist" : "Wave to Earth",
+        "description" : "Annie er en sang for alle som er lei av å bli fortalt hvordan suksess ser ut, for alle som ønsker å stå stille, men bestemt, på egne ben.",
+        "title" : "annie.",
+        "album" : "play with earth! 0.03 (extended)",
+        "year" : "2024",
+        "duration" : "3:20",
+        "genre" : "Indie rock (?)",
+        "link" : "https://open.spotify.com/track/57KdzjdxoBml2rx0rajGRg",
+        "review" : "En av mine favorittlåter fra albumet. Jeg føler at den uttrykker mange følelser, og det er ikke den vanlige «sjangeren/sangen» som bandet lager.",
+        "album_image": "images/W2E.png"
+      }
+    ]
+}
+  
