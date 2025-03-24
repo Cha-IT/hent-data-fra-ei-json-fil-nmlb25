@@ -1,14 +1,14 @@
 body {
-    /* background-color: #f4f4f4; */
     background-color: #ffd6dc;
-    color: #333;
+    color: #333; 
     margin: 0;
     padding: 0;
 }
 
+/* Header styling */
 header {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: #8d1717;
+    background-color: #8d1717; 
     color: white;
     text-align: center;
     padding: 20px;
@@ -18,21 +18,18 @@ html {
     scroll-behavior: smooth;
 }
 
-/* I used some of my old codes from the past projects/activities we had */
+/* I used some of my old codes from past projects/tasks */
 #song-list {
-    width: 50%;
+    width: 50%; 
     margin: 20px auto;
     display: grid;
-    /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
-    /* column-gap: 20px; */
-    color: #000000;
+    color: #000000; 
     position: relative;
 }
 
 .song-item {
-    background-color:rgb(243, 239, 239);
-    border: 1px solid #878686;
-    border: #333;
+    background-color: rgb(243, 239, 239); /* Light grey background */
+    border: 1px solid #878686; /* Border color */
     padding: 15px;
     border-radius: 8px;
     margin: 20px;
@@ -42,6 +39,7 @@ html {
 .song-item h2 {
     font-size: 25px;
     padding: 5px;
+    text-align: center;
 }
 
 .song-item p {
@@ -55,19 +53,64 @@ html {
     text-decoration: none;
     background-color: lightpink;
     padding: 10px;
-    border-top-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom-left-radius: 15px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-top: 10px;
 }
 
 .song-item a:hover {
     text-decoration: underline;
+    background-color: #e6006c; 
 }
 
 .album-image {
-    max-width: 150px;  
+    max-width: 150px;
     height: auto;
-    margin: 10px auto;  
+    margin: 10px auto;
     display: block;
+    border-radius: 8px;
+}
+
+#archive {
+    width: 50%; 
+    margin: 20px auto;
+    display: grid;
+    color: #000000; 
+    position: relative;
+}
+
+#archive h2 {
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+}
+
+/* #archive .song-item {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #878686; 
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif; 
+} */
+
+#archive .song-item p {
+    font-size: 20px;
+    padding: 10px;
+    text-align: left;
+}
+
+#archive .song-item a {
+    color: white;
+    text-decoration: none;
+    background-color: lightpink;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#archive .song-item a:hover {
+    text-decoration: underline;
+    background-color: #e6006c; 
 }
